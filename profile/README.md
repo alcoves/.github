@@ -5,6 +5,6 @@
 
 #### Projects
 
-- 🐟 Reef: The NextJS frontend for bken.io
-- ⚓ Pier: An API that services reef
-- 🌎 Tidal: Video transcoding engine
+- 🐟 Reef: NextJS frontend
+- ⚓ Pier: NestJS rest api
+- 🌎 Tidal: Media transcoding engine
